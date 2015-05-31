@@ -1,0 +1,8 @@
+@charset "UTF-8";
+@font-face {font-family: "i"; src:url("f.woff") format("woff"); font-weight: normal; font-style: normal;}
+div label span {font-family: "i"; speak: none; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
+span.a {color: red;}
+span.b {color: red;}
+span.c {color: orage;}
+span.d {color: yellow;}
+span.e {color: lime;}
